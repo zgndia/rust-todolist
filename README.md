@@ -25,7 +25,7 @@ This program lets you create a to-do list and modify it. You can add/remove task
 
 ### Prerequisites
 
-- rustup & cargo
+- rustc & cargo
 
 ### Installation
 
