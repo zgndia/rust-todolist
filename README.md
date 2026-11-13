@@ -19,8 +19,8 @@ This program lets you create a to-do list and modify it. You can add/remove task
 
 ## Features
 
-- Add a task
-- Remove an existing task
+- Add a task to the list
+- Remove an existing task from the list
 - Clear the to-do list
 
 ### Prerequisites
